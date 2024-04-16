@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" 
+"""
 User class
 """
 
@@ -26,5 +26,5 @@ class User():
 if __name__ == "__main__":
 
     u = User()
-    u.email("john@snow.com")
+    u.email("john@snow.co")
     print(u.email())
